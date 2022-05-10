@@ -1,0 +1,23 @@
+table {
+  border-collapse: collapse;
+}
+
+.first {
+  background-color: #ff0000;
+}
+
+.second {
+  background-color: #008000;
+}
+
+.third {
+  background-color: #ffff00;
+}
+
+.forth {
+  background-color: #0000ff;
+}
+
+.middle {
+  background-color: #000000;
+}
